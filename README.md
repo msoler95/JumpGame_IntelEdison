@@ -22,6 +22,8 @@ It's really easy! Just plug the cable of the button into the port D8 and the cab
 
 <img src="http://fotos.subefotos.com/df6a76f1e9ce72081b42335866172bafo.jpg">
 
+If you don't know how to assemble the board and run a program in your Intel Edison, follow this (guide)[https://software.intel.com/en-us/iot/library/edison-getting-started]
+
 
 
 
