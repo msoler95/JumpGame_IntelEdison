@@ -1,4 +1,4 @@
-© Marc Soler
+<p align="right"> © Marc Soler</p>
 # JumpGame IntelEdison
 
 Jump Game is an Intel Edison game based on the idea of jumping all monsters that are coming to eat you. Every level has his own screen color and difficulty. If monster eats you, you'll lose the game. How many levels can you reach? 
