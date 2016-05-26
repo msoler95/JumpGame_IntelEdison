@@ -1,4 +1,3 @@
-<p align="right"> © Marc Soler</p>
 # JumpGame IntelEdison
 
 Jump Game is an Intel Edison game based on the idea of jumping all monsters that are coming to eat you. Every level has his own screen color and difficulty. If monster eats you, you'll lose the game. How many levels can you reach? 
@@ -25,7 +24,7 @@ It's really easy! Just plug the cable of the button into the port D8 and the cab
 
 > If you don't know how to assemble the board and run a program in your Intel Edison, follow this [guide](https://software.intel.com/en-us/iot/library/edison-getting-started).
 
-
+<p align="right"> © Marc Soler</p>
 
 
 
