@@ -1,6 +1,6 @@
 # JumpGame_IntelEdison
 
-<img width="250px" src="http://fotos.subefotos.com/6ef7bace88dcfd63a099a724dec834fdo.jpg">
+<img width="350px" src="http://fotos.subefotos.com/6ef7bace88dcfd63a099a724dec834fdo.jpg">
 
 Jump Game is an Intel Edison game based on the idea of jumping all monsters that are coming to eat you. 
 
