@@ -7,7 +7,7 @@ Jump Game is an Intel Edison game based on the idea of jumping all monsters that
 
 ## How to play?
 
-The monster are comming, so you just have to push the button to jump over them.
+The monsters are comming, so you just have to push the button to jump over them.
 
 <img src="http://fotos.subefotos.com/70eecb88e125fa175595c7488df67fdco.jpg">
 <img src="http://fotos.subefotos.com/07584034e8a5bed2d1f0f9321bc10d5bo.jpg">
