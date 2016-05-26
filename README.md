@@ -16,7 +16,7 @@ If a monster eat you, you'll die.
 
 <img src="http://fotos.subefotos.com/5dadc23f9c1b08051d500dafc6b9c217o.jpg">
 
-## How to built?
+## How to build?
 
 It's really easy! Just plug the cable of the button into the port D8 and the cable of the screen in the 12C. After this, connect the Intel Edison to your computer and run the program. At this time, you should see in your screen the game running.
 
