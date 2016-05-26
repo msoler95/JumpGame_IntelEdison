@@ -1,13 +1,13 @@
 # JumpGame IntelEdison
 
-Jump Game is an Intel Edison game based on the idea of jumping all monsters that are coming to eat you. Every level has his own screen color and difficulty. If an obstacle eats you, you'll lose the game. How many levels can you reach? 
+Jump Game is an Intel Edison game based on the idea of jumping all monsters that are coming to eat you. Every level has his own screen color and difficulty. If monster eats you, you'll lose the game. How many levels can you reach? 
 
 <img width="350px" src="http://fotos.subefotos.com/73f4734bf2cf00b46f75fef12c26e716o.jpg">
 <img width="350px" src="http://fotos.subefotos.com/6ef7bace88dcfd63a099a724dec834fdo.jpg">
 
 ## How to play?
 
-The monster are comming to you. You just have to push the button to jump over them.
+The monster are comming, so you just have to push the button to jump over them.
 
 <img src="http://fotos.subefotos.com/70eecb88e125fa175595c7488df67fdco.jpg">
 <img src="http://fotos.subefotos.com/07584034e8a5bed2d1f0f9321bc10d5bo.jpg">
